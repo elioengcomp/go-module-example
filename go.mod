@@ -1,1 +1,1 @@
-module github.com/elioengcomp/go-module-example
+module github.com/elioengcomp/go-module-example/v3
