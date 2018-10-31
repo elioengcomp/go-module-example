@@ -4,7 +4,7 @@ import (
 	"github.com/kr/pretty"
 )
 
-const version = "v3.0.0"
+const version = "v3.0.1"
 
 func Exec() string {
 	
